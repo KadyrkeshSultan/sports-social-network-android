@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "441534260540",
+    "firebase_url": "https://sport-b2290.firebaseio.com",
+    "project_id": "sport-b2290",
+    "storage_bucket": "sport-b2290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441534260540:android:a2e5320a3b184ccd",
+        "android_client_info": {
+          "package_name": "vn.datsan.datsan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441534260540-gj91o9e2m80ps5d2d7bbvdg8blphj6fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1jLeVF9iQwsayH3amgyVjfRZQtUZpTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
